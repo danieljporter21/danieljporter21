@@ -1,4 +1,4 @@
-### Hi, Im Daniel!
+### Hi, I'm Daniel!
 
 I am a Full Stack Software Developer based in Bristol. 
 
